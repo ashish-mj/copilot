@@ -1,0 +1,5 @@
+<script>start("/Users/ashish.mj/Desktop/copilot/src/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("__pycache__","__pycache__",1,128,"128 B",1743150962,"28/03/2025, 14:06:02");</script>
+<script>addRow("couchbase_client.py","couchbase_client.py",0,3086,"3.0 kB",1743154037,"28/03/2025, 14:57:17");</script>
+<script>addRow("model.py","model.py",0,195,"195 B",1743143382,"28/03/2025, 11:59:42");</script>
