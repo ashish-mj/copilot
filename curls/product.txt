@@ -1,0 +1,4 @@
+curl -H 'Content-Type: application/json' -d '{ "id":"DV0001", "price": 15000  , "status": "ACTIVE" ,"description" : "iPhone 16", "type": "SmartPhone"}' -X POST http://localhost:5000/products
+curl -H 'Content-Type: application/json' -d '{ "id":"DV0003", "price": 8000  , "status": "ACTIVE" ,"description" : "iPhone X", "type": "SmartPhone"}' -X POST http://localhost:5000/products
+curl -H 'Content-Type: application/json' -d '{ "id":"DV0004", "price": 8000  , "status": "INACTIVE" ,"description" : "iPhone X 10", "type": "SmartPhone"}' -X POST http://localhost:5000/products
+curl -H 'Content-Type: application/json' -d '{ "id":"DV0002", "price": 8000  , "status": "INACTIVE" ,"description" : "iPhone X 11", "type": "SmartPhone"}' -X POST http://localhost:5000/products
